@@ -1,3 +1,7 @@
-fetch('./crypto.json')
-    .then((response) => response.json())
-    .then((json) => console.log(json));
+import { response } from "./api.js";
+
+const app = document.getElementById('app');
+
+app.innerHTML = response && response.map((item) => {
+      return `<div>${item.CoinName}</div>`;
+   }).join('');

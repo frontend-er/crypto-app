@@ -91,4 +91,98 @@
       "paradigm-portfolio",
       "injective-ecosystem"
    ]
+}, 
+{
+   "CoinName": "Bitcoin",
+   "Description": "Bitcoin (BTC) is a cryptocurrency . Ethereum has a current supply of 122,373,863.499. The last known price of Ethereum is 1,296.46813317 USD and is down -2.25 over the last 24 hours. It is currently trading on 6141 active market(s) with $9,858,045,745.34 traded over the last 24 hours. More information can be found at https://www.ethereum.org/.",
+   "Algorithm": "Ethash",
+   "AssetLaunchDate": "2015-07-30",
+   "IsTrading": true,
+   "Rank": 2,
+   "Urls": {
+      "website": [
+         "https://www.ethereum.org/",
+         "https://en.wikipedia.org/wiki/Ethereum"
+      ],
+      "twitter": [
+         "https://twitter.com/ethereum"
+      ],
+      "message_board": [
+         "https://forum.ethereum.org/",
+         "https://ethresear.ch/"
+      ],
+      "chat": [
+         "https://gitter.im/orgs/ethereum/rooms"
+      ],
+      "facebook": [],
+      "explorer": [
+         "https://etherscan.io/",
+         "https://ethplorer.io/",
+         "https://blockchair.com/ethereum",
+         "https://bscscan.com/token/0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+         "https://eth.tokenview.com/en/blocklist"
+      ],
+      "reddit": [
+         "https://reddit.com/r/ethereum"
+      ],
+      "technical_doc": [
+         "https://github.com/ethereum/wiki/wiki/White-Paper"
+      ],
+      "source_code": [
+         "https://github.com/ethereum/go-ethereum"
+      ],
+      "announcement": [
+         "https://bitcointalk.org/index.php?topic=428589.0"
+      ]
+   },
+   "DateAdded": "2015-08-07T00:00:00.000Z",
+   "ProofType": "PoS",
+   "Difficulty": 0.0,
+   "MaxSupply": null,
+   "CirculatingSupply": 122373863.499,
+   "TotalSupply": 122373863.499,
+   "Volumes": {
+      "USD": {
+         "Price": 21297.96,
+         "PercentChange24h": -0.8592968278580212,
+         "Open24h": 1309.21,
+         "High24h": 1320.42,
+         "Low24H": 1286.68,
+         "MarketCap": 158836379867,
+         "TradeVolume24h": 723734016.3802091,
+         "TotalTradeVolume": 3382047642.559006,
+         "TotalTopTierVolume": 3381200698.4408927,
+         "LastUpdate": 1666198801
+      }
+   },
+   "Tags": [
+      "pos",
+      "smart-contracts",
+      "ethereum-ecosystem",
+      "coinbase-ventures-portfolio",
+      "three-arrows-capital-portfolio",
+      "polychain-capital-portfolio",
+      "binance-labs-portfolio",
+      "blockchain-capital-portfolio",
+      "boostvc-portfolio",
+      "cms-holdings-portfolio",
+      "dcg-portfolio",
+      "dragonfly-capital-portfolio",
+      "electric-capital-portfolio",
+      "fabric-ventures-portfolio",
+      "framework-ventures-portfolio",
+      "hashkey-capital-portfolio",
+      "kenetic-capital-portfolio",
+      "huobi-capital-portfolio",
+      "alameda-research-portfolio",
+      "a16z-portfolio",
+      "1confirmation-portfolio",
+      "winklevoss-capital-portfolio",
+      "usv-portfolio",
+      "placeholder-ventures-portfolio",
+      "pantera-capital-portfolio",
+      "multicoin-capital-portfolio",
+      "paradigm-portfolio",
+      "injective-ecosystem"
+   ]
 }]
